@@ -27,7 +27,7 @@ example:- {
              "department": "Marketting"
           }
 
-Api 2: /api/nth_most_total_item
+### Api 2: /api/nth_most_total_item
 @desc Get the nth most sold item in terms of quantity or price
 @route GET /api/nth_most_total_item
 @access Public
@@ -38,7 +38,7 @@ example:- {
              "end_date": "2023-04-21T13:13:21.000+00:00"
           }
           
-Api 3: /api/percentage_of_department_wise_sold_items
+### Api 3: /api/percentage_of_department_wise_sold_items
 @desc Get the percentage of sold items department-wise
 @route GET /api/percentage_of_department_wise_sold_items
 @access Public
@@ -48,7 +48,7 @@ example:- {
              "end_date": "2023-04-21T13:13:21.000+00:00"
           }
           
-Api 4: /api/monthly_sales
+### Api 4: /api/monthly_sales
 @desc Get the monthly sales for any product
 @route GET /api/monthly_sales
 @access Public
