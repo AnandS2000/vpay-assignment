@@ -1,7 +1,9 @@
 # vpay-assignment
 
+## REST API
+
 To run the project:-
-###Step-1
+### Step-1
 open the project in vs code and run command
 -npm install
 
